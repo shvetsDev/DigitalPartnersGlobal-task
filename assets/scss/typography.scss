@@ -1,0 +1,57 @@
+
+.h {
+    &-1 {
+        font-family: Inter;
+        font-weight: 700;
+        font-size: 32px;
+    }
+    &-2 {
+        font-family: Inter;
+        font-weight: 700;
+        font-size: 24px;
+    }
+    &-3 {
+        font-family: Inter;
+        font-weight: 700;
+        font-size: 20px;
+    }
+}
+
+.p {
+    &-m {
+        font-family: Golos Text;
+        font-weight: 400;
+        font-size: 14px;
+    }
+    &-sale {
+        font-family: Golos Text;
+        font-weight: 400;
+        font-size: 12px;
+    }
+    &-price {
+        font-family: Golos Text;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    &-discount {
+        font-family: Inter;
+        font-weight: 400;
+        font-size: 12px;
+    }
+    &-brand {
+        font-family: Golos Text;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 100%;
+        letter-spacing: 0%;
+    }
+}
+
+.decoration {
+    &-through {
+        text-decoration: line-through;
+    }
+    &-underline {
+        text-decoration: underline;
+    }
+}

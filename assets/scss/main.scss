@@ -1,0 +1,19 @@
+@use "./typography.scss";
+@import url("https://fonts.googleapis.com/css?family=Inter");
+@import url('https://fonts.cdnfonts.com/css/golos-text');
+
+:root {
+    --text-sale-color: #E0119D;
+
+    --text-color: #000000;
+    --text-light-color: #FFFFFF;
+    --text-secondary-color: #999999;
+
+    --background-color: #FFFFFF;
+    --background-popup-color: #E0119D;
+    --background-dark-color: black;
+}
+
+a, p, h1, h2, h3 {
+    margin: 0;
+}
